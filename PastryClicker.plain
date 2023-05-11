@@ -88,7 +88,7 @@
 }
 .thing:hover,.thing.lit
 {
-	background:#6cf;
+	background:#ff8c2c;
 }
 .thing.cantAfford
 {
